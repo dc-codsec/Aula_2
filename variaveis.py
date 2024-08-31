@@ -10,10 +10,10 @@ ip = "192.168.10.1" #ATRIBUINDO O VALOR A VARIAVEL
 print(ip)
 # O operador = é diferente dàquele da matemática 
 # Aqui ele significa que o valor da direita está sendo atribuido
-# ao valor  
+# ao valor da esquerda 
 
 #CONSTANTES são valores que não podem ser alterados durante o script
-#Em python esse conceito não existe, porém há uma convenção
+#Em python essa funcionalidade não existe, porém há uma convenção
 #de utilizarmos letras maiúsculas para identificar uma variável 
 #que não deve ser alterada, "simulando uma constante"
 PORTA = 80 
