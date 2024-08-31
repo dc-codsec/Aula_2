@@ -1,5 +1,5 @@
 """
-Funções são pedaços de codigo que executam uma ação especifica
+Funções são codigos que executam uma ação especifica
 Em python uma identificamos uma função com uma palavra
 seguida de parenteses: funcao()
 Podem ou não receber parâmetros
